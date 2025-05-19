@@ -6,17 +6,6 @@ This is the **frontend-only** part of the full-stack MERN application designed t
 
 📁 Project Structure
 
-Curasync-Frontend/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   ├── index.js
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
 
 🚀 Features
 
